@@ -24,7 +24,7 @@ I am software engineering student at Indonesia
 
 ### :zap: Github Stats
 ![Powercoderr's GitHub stats](https://github-readme-stats.vercel.app/api?username=powercoderr&show_icons=true&theme=dark)
-![Powercoderr's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=powercoderr&layout=compact&theme=radical)]
+![Powercoderr's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=powercoderr&layout=compact&theme=radical)
 
 
 <br>
