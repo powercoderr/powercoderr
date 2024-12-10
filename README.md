@@ -1,32 +1,16 @@
-## Hello there, I'm Aden👋
+𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
+Hi, I’m Dena, a passionate 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝘄𝗶𝘁𝗵 𝗼𝘃𝗲𝗿 𝘁𝘄𝗼 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 creating scalable and secure web applications. My expertise lies in 𝗣𝗛𝗣 𝗳𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 (𝗟𝗮𝗿𝗮𝘃𝗲𝗹, 𝗖𝗼𝗱𝗲𝗜𝗴𝗻𝗶𝘁𝗲𝗿), 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗳𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 (𝗩𝘂𝗲.𝗷𝘀, 𝗷𝗤𝘂𝗲𝗿𝘆), 𝗮𝗻𝗱 𝗝𝗮𝘃𝗮 𝗦𝗽𝗿𝗶𝗻𝗴 𝗕𝗼𝗼𝘁, with a strong focus on delivering solutions that solve complex problems efficiently.
 
-I am software engineering student at Indonesia
+𝗠𝘆 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲
+• 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Building reliable APIs and optimizing system performance using Laravel, CodeIgniter, and Java Spring Boot.
+• 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Creating dynamic, user-focused interfaces with Vue.js and jQuery.
+• 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁: Ensuring data accuracy and integrity with MySQL, PostgreSQL, and Oracle.
 
-- 🔭 I’m currently working on [blog application](https://github.com/powercoderr/blog)
-- 🌱 I’m currently learning Laravel 8
-- 👯 I’m looking to collaborate with other developer
-<!-- - 📫 How to reach me: ...-->
+𝗪𝗵𝗮𝘁 𝗜 𝗕𝗿𝗶𝗻𝗴
+I take pride in crafting clean, maintainable code and collaborating with cross-functional teams to align technical solutions with business needs. My work has enhanced workflows, improved data management, and streamlined operations across various industries.
 
+𝗟𝗼𝗼𝗸𝗶𝗻𝗴 𝗔𝗵𝗲𝗮𝗱
+I’m always looking for opportunities to grow, learn, and contribute to impactful projects. If you’re seeking a developer who’s committed to delivering results while continuously improving their craft, let’s connect.
 
-### Languages and Tools: 
-<img align="left" alt="Html" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="left" alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="left" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<!--<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> -->
-<img align="left" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-<img align="left" alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
-<img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="left" alt="Github" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img align="left" alt="Gitlab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<br><br><br>
-
-### :zap: Github Stats
-![Powercoderr's GitHub stats](https://github-readme-stats.vercel.app/api?username=powercoderr&show_icons=true&theme=dark)
-![Powercoderr's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=powercoderr&layout=compact&theme=radical)
-
-
-<br>
-<br>
-<br>
+𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗠𝗲
+Feel free to reach out here on LinkedIn. I’d love to explore how I can help with your next project!
